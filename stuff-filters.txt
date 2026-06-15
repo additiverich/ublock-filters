@@ -1,0 +1,17 @@
+! Title: Stuff filters
+! Description: Removes sign-in annoyances for certain NZ news sites
+! Homepage: https://github.com/additiverich/ublock-filters
+! License: MIT
+!
+! These are intended to be used with uBlock Origin, which means Chrome users might adversely affected.
+! 
+! I have had some success pasting these into Adguard if that helps.
+!
+! If you like this drop me some loose change: https://ko-fi.com/dritchie
+
+! Allow the specific Piano script while still blocking other annoyances
+@@||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
+
+! Block Piano.io from loading on these sites
+||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
+||tinypass.com^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
