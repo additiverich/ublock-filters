@@ -2,5 +2,5 @@
 ! Description: Blocks specific Zephr-related feature paths on thedailybeast.com
 ! Date: 2026-06-17
 ! ------------------------------------------------------------------
-||www.thedailybeast.com/zephr/features^$document
-||www.thedailybeast.com/zephr/feature-decisions^$document
+||www.thedailybeast.com/zephr/features^
+||www.thedailybeast.com/zephr/feature-decisions^
