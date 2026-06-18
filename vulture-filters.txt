@@ -1,0 +1,6 @@
+! Title: Vulture.com
+! Description: Blocks specific Zephr-related feature paths on vulture.com
+! Date: 2026-06-18
+! ------------------------------------------------------------------
+||www.vulture.com/zephr/features$document,domain=www.thedailybeast.com
+||www.vulture.com/zephr/feature-decisions$document,domain=www.thedailybeast.com
