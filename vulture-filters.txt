@@ -2,5 +2,5 @@
 ! Description: Blocks specific Zephr-related feature paths on vulture.com
 ! Date: 2026-06-18
 ! ------------------------------------------------------------------
-||www.vulture.com/zephr/features^$document
-||www.vulture.com/zephr/feature-decisions^$document
+||www.vulture.com/zephr/features^
+||www.vulture.com/zephr/feature-decisions^
