@@ -13,5 +13,5 @@
 @@||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
 
 ! Block Piano.io from loading on these sites
-||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
-||tinypass.com^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
+||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
+||tinypass.com^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
