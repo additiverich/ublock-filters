@@ -9,9 +9,9 @@
 !
 ! If you like this drop me some loose change: https://ko-fi.com/dritchie
 
-! Allow the specific Piano script while still blocking other annoyances
-@@||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
+! Actually block this URL
+||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
 
-! Block Piano.io from loading on these sites
-||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
-||tinypass.com^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
+! Block Piano.io from loading on these sites (Commented out for now)
+! ||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
+! ||tinypass.com^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
