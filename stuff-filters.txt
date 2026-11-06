@@ -10,7 +10,7 @@
 ! If you like this drop me some loose change: https://ko-fi.com/dritchie
 
 ! Actually block this URL
-||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz
+||*.piano.io/api/tinypass.min.js$script,domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
 
 ! Block Piano.io from loading on these sites (Commented out for now)
 ! ||piano.io^$domain=thepost.co.nz|waikatotimes.co.nz|thepress.co.nz|stuff.co.nz
